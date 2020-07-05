@@ -85,6 +85,7 @@ function check() {
         document.getElementById("msg").setAttribute("style", "color : black;");
         document.getElementById("msg").innerText = a + "A " + b + "B";
         document.getElementById("history").value += '\r\n' + input + " : " + a + "A " + b + "B";
+		document.getElementById("input").value = "";
     }
 }
 
