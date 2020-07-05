@@ -1,0 +1,21 @@
+#title {
+    color: white;
+    font-size: 69px;
+    font-weight: Bold;
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    resize: none;
+}
+
+#buttons {
+    color: white;
+    font-size: 54px;
+    font-weight: Bold;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    resize: none;
+}
